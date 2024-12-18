@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "8KtRcOMe0Ug=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\c9borzso\\Desktop\\torpedo\\torpedo\\torpedo\\torpedo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\c9borzso\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\c9borzso\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\c9borzso\\.nuget\\packages\\mysqlconnector\\2.4.0\\mysqlconnector.2.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
